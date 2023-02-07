@@ -28,6 +28,7 @@ h.	Data cleaning: Stemming.
 Conclusion:
 
 •	We can observe that both logistic regression and multinomial naïve bayes performing well compared to linear SVM.
+
 •	We can also improve the accuracy of the model by using lexicon model text blob etc.
 
 
